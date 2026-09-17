@@ -89,7 +89,3 @@ The dataset contains social media post engagement information.
 
 Computer Engineering Graduate | Data Analytics & Data Science Enthusiast
 
-### 🔗 Connect with Me
-
-- LinkedIn: [Add your LinkedIn profile link]
-- GitHub: [Add your GitHub profile link]
